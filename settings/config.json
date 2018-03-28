@@ -1,0 +1,15 @@
+{
+  "shardCount": 1,
+  "prefix": "!",
+  "status": "Online",
+  "game": {
+    "type": "Watching",
+    "name": [
+      "2 Servers"
+    ]
+  },
+  "music": {
+    "status": false,
+    "passes": 1
+  }
+}
